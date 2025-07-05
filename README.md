@@ -28,7 +28,7 @@ A personal portfolio website built with React showcasing my projects, skills, an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jill2/portfolio.git
+git clone https://github.com/Jill-Prajapati/Portfolio.git
 cd portfolio
 ```
 
@@ -50,7 +50,7 @@ This project is configured to deploy to GitHub Pages. Follow these steps:
 
 ### 1. Push your code to GitHub
 
-Make sure your code is pushed to a GitHub repository named `portfolio`.
+Make sure your code is pushed to a GitHub repository named `Portfolio`.
 
 ### 2. Deploy to GitHub Pages
 
@@ -62,7 +62,7 @@ npm run deploy
 This will:
 - Build your React application
 - Deploy it to the `gh-pages` branch
-- Make it available at `https://jill2.github.io/portfolio`
+- Make it available at `https://jill-prajapati.github.io/Portfolio`
 
 ### 3. Configure GitHub Pages (if needed)
 
@@ -73,7 +73,7 @@ This will:
 5. Choose "gh-pages" branch and "/ (root)" folder
 6. Click "Save"
 
-Your website will be live at `https://jill2.github.io/portfolio`
+Your website will be live at `https://jill-prajapati.github.io/Portfolio`
 
 ## Available Scripts
 
