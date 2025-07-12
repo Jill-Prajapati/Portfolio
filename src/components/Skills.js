@@ -8,9 +8,9 @@ const skills = [
   { icon: '📈', name: 'Data Visualization' },
   { icon: '📉', name: 'Basic Statistics' },
   { icon: '📊', name: 'Power BI ' },
+  { icon: '🤖', name: 'Machine Learning' },
   { icon: '🧩', name: 'Problem Solving' },
   { icon: '💬', name: 'Communication' },
-  { icon: '🤖', name: 'Machine Learning' },
 ];
 
 const Skills = () => (
