@@ -1,6 +1,16 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Jill Prajapati and I'm a Fresher currently looking for Data Analyst role, i am from Vadodara, Gujarat, India</p>
+
 # Portfolio Website
 
 A personal portfolio website built with React showcasing my projects, skills, and experience.
+
+## Live at
+
+https://jill-prajapati.github.io/Portfolio/
 
 ## Features
 
