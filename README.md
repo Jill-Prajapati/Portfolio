@@ -2,32 +2,32 @@
 
 ###
 
-<p align="left">My name is Jill Prajapati and I'm a Fresher currently looking for Data Analyst role, i am from Vadodara, Gujarat, India</p>
+<p align="left">My name is Jill Prajapati and I'm a Fresher currently looking for Data Analyst role, I am from Vadodara, Gujarat, India</p>
 
-# Portfolio Website
+# 💼 Portfolio Website
 
 A personal portfolio website built with React showcasing my projects, skills, and experience.
 
-## Live at
+## 🌐 Live at
 
 https://jill-prajapati.github.io/Portfolio/
 
-## Features
+## 🚀 Features
 
-- Responsive design
-- Project showcase
-- Skills section
-- Contact information
-- Professional resume
+- 📱 Responsive design
+- 🎯 Project showcase
+- 🧠 Skills section
+- 📬 Contact information
+- 📄 Professional resume
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - React.js
 - CSS3
 - HTML5
 - JavaScript
 
-## Getting Started
+## 🔧 Getting Started
 
 ### Prerequisites
 
