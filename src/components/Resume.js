@@ -7,7 +7,7 @@ const Resume = () => (
     <h2>Resume</h2>
     <p>Bachelor's Degree in Computer Science and Engineering, ITM SLS Baroda University, 2021-2025</p>
     <p>Looking for entry-level Data Analyst roles to kickstart my career.</p>
-    <a href="/resume.pdf" download className="resume-download-btn">Download Resume (PDF)</a>
+    <a href="/Jill_Prajapati_Resume.pdf" download className="resume-download-btn">Download Resume (PDF)</a>
   </section>
 );
 
